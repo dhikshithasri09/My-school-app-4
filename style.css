@@ -1,0 +1,102 @@
+body {
+    text-align: left;
+}
+
+#school {
+    width: 100%;
+    height: 800px;
+}
+
+#marqueeStyle {
+    background-color: lightcyan;
+    font-family: Times;
+    color: black;
+}
+
+#details {
+    margin-left: -20px;
+}
+
+.campus_life_mainDiv img {
+    height: 200px;
+    width: 800px;
+}
+
+#campus_life {
+   text-align: center;
+}
+
+#contact {
+    text-align: center;
+}
+
+#achievements {
+    text-align: center;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+#school_news {
+    text-align: center;
+}
+
+.school_news_li {
+    margin-top: 30px;
+}
+
+.school_news_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.school_news img {
+    border-radius: 25px;
+    height: 100px;
+    width: 100px;
+}
+
+.school_news_li p {
+    margin-top: 10px;
+}
+
+.book hr {
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.modal-content {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.img_modal{
+    display: inline-block;
+    align-self: center;
+    width: 200px;
+    height: 300px;
+}
+
+.p_modal {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.book img {
+    width: 200px;
+    height: 300px;
+}
+
+#books {
+    text-align: center;
+}
